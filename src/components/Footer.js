@@ -1,5 +1,5 @@
 import PageLinks from "./PageLinks";
-import { pageLinks, socialLinks } from "./data";
+import { socialLinks } from "./data";
 
 const Footer = () => {
   return (
