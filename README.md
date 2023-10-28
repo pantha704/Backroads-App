@@ -1,8 +1,6 @@
 # Backroads App
 
-Live at : https://melodious-starship-9b3ca8.netlify.app/
-
-[Working Application - Deployed](https://backroads-app.netlify.app/)
+[Working Application - Deployed](https://melodious-starship-9b3ca8.netlify.app/)
 
 - backroads-html - working html/css/javascript project (contains assets)
 - final(complete source code) - working react application
